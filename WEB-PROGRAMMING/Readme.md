@@ -2,8 +2,7 @@
 * Tantárgyfelelős: Dr. ing. Biró Attila
 * Laborok: Balla Tihamér
 * Órarend: https://umfst.ro/inginerie/informatii-studenti/informatii-specifice-facultatii/orar/
-
-**Fontos**: Azok a hallgatók, akik bármilyen okból e-mailben keresnek meg, kizárólag az egyetem által biztosított hivatalos e-mail címükről írjanak.
+* **Fontos**: Azok a hallgatók, akik bármilyen okból e-mailben keresnek meg, kizárólag az egyetem által biztosított hivatalos e-mail címükről írjanak.
 
 ## Tartalom
 * Alapozás: IDE (Visual Studio Core, Cursor), GitHub/Gitlab, CI/CD, Github Copilot 
