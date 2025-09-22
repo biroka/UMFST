@@ -4,5 +4,5 @@
 * Location: Targu Mures, Romania
 
 ###  
-* Course: **Web Application Development**
-* Course: **Advanced Topics in Artificial Intelligence**
+* Course (HU): **Web Application Development**
+* Course (HU): **Advanced Topics in Artificial Intelligence**
