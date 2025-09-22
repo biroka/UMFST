@@ -5,7 +5,7 @@
 * **Fontos**: Azok a hallgatók, akik bármilyen okból e-mailben keresnek meg, kizárólag az egyetem által biztosított hivatalos e-mail címükről írjanak.
 
 ## Tartalom
-* Alapozás: IDE (Visual Studio Core, Cursor), GitHub/Gitlab, CI/CD, Github Copilot 
+* Alapozás: IDE (Visual Studio Code, Cursor), GitHub/Gitlab, CI/CD, Github Copilot 
 * HTML5 – Egy HTML dokumentum felépítése. Alapvető tagek. Webes szabványok. Webes űrlapok.
 * CSS3 (Cascading Style Sheets). Reszponzív Web Design. Progresszív Web Alkalmazás (PWA)
 * HTTP protokoll. GET és POST metódusok. A HTTP állapotmentes jellege. Cookie-k. Webes munkamenet-kezelés.
